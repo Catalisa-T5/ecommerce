@@ -1,0 +1,2 @@
+insert into TB_PRODUTOS (nome_produto, descricao, preco) values ('Camisa', 'Camisa vermelha nike', '130.0')
+insert into TB_PRODUTOS (nome_produto, descricao, preco) values ('Tênis', 'Tênis branco Adidas', '350.0')
